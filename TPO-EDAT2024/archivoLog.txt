@@ -1,0 +1,150 @@
+Carga inicial de datos
+Carga inicial de equipos:
+
+MEXICO	HI: CHILE	HD: URUGUAY
+CHILE	HI: BOLIVIA	HD: ESTADOS UNIDOS
+BOLIVIA	HI: ARGENTINA	HD: CANADA
+ARGENTINA	HI: -	HD: -
+CANADA	HI: BRASIL	HD: -
+BRASIL	HI: -	HD: -
+ESTADOS UNIDOS	HI: COSTA RICA	HD: JAMAICA
+COSTA RICA	HI: COLOMBIA	HD: ECUADOR
+COLOMBIA	HI: -	HD: -
+ECUADOR	HI: -	HD: -
+JAMAICA	HI: -	HD: -
+URUGUAY	HI: PARAGUAY	HD: VENEZUELA
+PARAGUAY	HI: PANAMA	HD: PERU
+PANAMA	HI: -	HD: -
+PERU	HI: -	HD: -
+VENEZUELA	HI: -	HD: -
+Carga inicial de ciudades:
+
+ST. LOUIS arcos: 
+        LOUISVILLE Etiqueta 150.0
+        KANSAS CITY Etiqueta 200.0
+        ATLANTA Etiqueta 250.0	
+LOUISVILLE arcos: 
+        EAST RUTHERFORD Etiqueta 100.0
+        NASHVILLE Etiqueta 150.0
+        ORLANDO Etiqueta 150.0
+        ST. LOUIS Etiqueta 150.0	
+CINCINNATI arcos: 
+        HOUSTON Etiqueta 150.0
+        ARLINGTON Etiqueta 100.0
+        INGLEWOOD Etiqueta 300.0
+        PARADISE Etiqueta 250.0	
+INDIANAPOLIS arcos: 
+        LAS VEGAS Etiqueta 300.0
+        ATLANTA Etiqueta 150.0
+        ARLINGTON Etiqueta 150.0	
+SAN ANTONIO arcos: 
+        CHARLOTTE Etiqueta 150.0
+        INGLEWOOD Etiqueta 200.0
+        PARADISE Etiqueta 200.0
+        LAS VEGAS Etiqueta 250.0	
+NASHVILLE arcos: 
+        EAST RUTHERFORD Etiqueta 150.0
+        MIAMI Etiqueta 100.0
+        LOUISVILLE Etiqueta 150.0	
+LAS VEGAS arcos: 
+        PARADISE Etiqueta 100.0
+        SAN ANTONIO Etiqueta 250.0
+        INDIANAPOLIS Etiqueta 300.0	
+PARADISE arcos: 
+        AUSTIN Etiqueta 200.0
+        KANSAS CITY Etiqueta 250.0
+        LAS VEGAS Etiqueta 100.0
+        SAN ANTONIO Etiqueta 200.0
+        CINCINNATI Etiqueta 250.0	
+KANSAS CITY arcos: 
+        SANTA CLARA Etiqueta 250.0
+        ORLANDO Etiqueta 200.0
+        PARADISE Etiqueta 250.0
+        ST. LOUIS Etiqueta 200.0	
+AUSTIN arcos: 
+        MIAMI Etiqueta 200.0
+        HOUSTON Etiqueta 50.0
+        INGLEWOOD Etiqueta 200.0
+        ORLANDO Etiqueta 200.0
+        PARADISE Etiqueta 200.0	
+ORLANDO arcos: 
+        CHARLOTTE Etiqueta 50.0
+        AUSTIN Etiqueta 200.0
+        KANSAS CITY Etiqueta 200.0
+        LOUISVILLE Etiqueta 150.0
+        SANTA CLARA Etiqueta 350.0	
+INGLEWOOD arcos: 
+        SANTA CLARA Etiqueta 50.0
+        CHARLOTTE Etiqueta 300.0
+        AUSTIN Etiqueta 200.0
+        SAN ANTONIO Etiqueta 200.0
+        CINCINNATI Etiqueta 300.0	
+GLENDALE arcos: 
+        ARLINGTON Etiqueta 100.0
+        ATLANTA Etiqueta 250.0
+        MIAMI Etiqueta 300.0
+        HOUSTON Etiqueta 250.0	
+CHARLOTTE arcos: 
+        MIAMI Etiqueta 100.0
+        SANTA CLARA Etiqueta 300.0
+        INGLEWOOD Etiqueta 300.0
+        ORLANDO Etiqueta 50.0
+        SAN ANTONIO Etiqueta 150.0	
+SANTA CLARA arcos: 
+        CHARLOTTE Etiqueta 300.0
+        INGLEWOOD Etiqueta 50.0
+        KANSAS CITY Etiqueta 250.0
+        ORLANDO Etiqueta 350.0	
+ARLINGTON arcos: 
+        HOUSTON Etiqueta 100.0
+        CINCINNATI Etiqueta 100.0
+        GLENDALE Etiqueta 100.0
+        INDIANAPOLIS Etiqueta 150.0	
+HOUSTON arcos: 
+        MIAMI Etiqueta 150.0
+        ARLINGTON Etiqueta 100.0
+        AUSTIN Etiqueta 50.0
+        CINCINNATI Etiqueta 150.0
+        GLENDALE Etiqueta 250.0	
+MIAMI arcos: 
+        NASHVILLE Etiqueta 100.0
+        HOUSTON Etiqueta 150.0
+        CHARLOTTE Etiqueta 100.0
+        AUSTIN Etiqueta 200.0
+        GLENDALE Etiqueta 300.0	
+ATLANTA arcos: 
+        EAST RUTHERFORD Etiqueta 100.0
+        GLENDALE Etiqueta 250.0
+        ST. LOUIS Etiqueta 250.0
+        INDIANAPOLIS Etiqueta 150.0	
+EAST RUTHERFORD arcos: 
+        ATLANTA Etiqueta 100.0
+        LOUISVILLE Etiqueta 100.0
+        NASHVILLE Etiqueta 150.0	
+Carga inicial de partidos:
+
+Equipo 1: BOLIVIA  Equipo 2: PANAMA Ronda: grupo Resultado: 1-1 Ciudad: KANSAS CITY Estadio: ARROWHEAD STADIUM	
+Equipo 1: ECUADOR  Equipo 2: VENEZUELA Ronda: grupo Resultado: 1-2 Ciudad: AUSTIN Estadio: Q2 STADIUM	
+Equipo 1: ECUADOR  Equipo 2: JAMAICA Ronda: grupo Resultado: 1-2 Ciudad: KANSAS CITY Estadio: ARROWHEAD STADIUM	
+Equipo 1: ESTADOS UNIDOS  Equipo 2: PANAMA Ronda: grupo Resultado: 3-0 Ciudad: PARADISE Estadio: ALLEGIANT STADIUM	
+Equipo 1: ARGENTINA  Equipo 2: CANADA Ronda: grupo Resultado: 2-0 Ciudad: ATLANTA Estadio: MERCEDES-BENZ STADIUM	
+Equipo 1: BOLIVIA  Equipo 2: URUGUAY Ronda: grupo Resultado: 0-2 Ciudad: EAST RUTHERFORD Estadio: METLIFE STADIUM	
+Equipo 1: COLOMBIA  Equipo 2: PARAGUAY Ronda: grupo Resultado: 1-1 Ciudad: INDIANAPOLIS Estadio: LUCAS OIL STADIUM	
+Equipo 1: ARGENTINA  Equipo 2: CHILE Ronda: grupo Resultado: 1-0 Ciudad: EAST RUTHERFORD Estadio: METLIFE STADIUM	
+Equipo 1: COSTA RICA  Equipo 2: PARAGUAY Ronda: grupo Resultado: 0-2 Ciudad: CHARLOTTE Estadio: BANK OF AMERICA STADIUM	
+Equipo 1: ESTADOS UNIDOS  Equipo 2: URUGUAY Ronda: grupo Resultado: 2-2 Ciudad: ORLANDO Estadio: EXPLORIA STADIUM	
+Equipo 1: JAMAICA  Equipo 2: VENEZUELA Ronda: grupo Resultado: 0-1 Ciudad: INGLEWOOD Estadio: SOFI STADIUM	
+Equipo 1: COLOMBIA  Equipo 2: COSTA RICA Ronda: grupo Resultado: 2-1 Ciudad: GLENDALE Estadio: STATE FARM STADIUM	
+Equipo 1: ARGENTINA  Equipo 2: PERU Ronda: grupo Resultado: 3-1 Ciudad: HOUSTON Estadio: NRG STADIUM	
+Equipo 1: BRASIL  Equipo 2: COLOMBIA Ronda: grupo Resultado: 2-1 Ciudad: ATLANTA Estadio: MERCEDES-BENZ STADIUM	
+Equipo 1: PANAMA  Equipo 2: URUGUAY Ronda: grupo Resultado: 0-1 Ciudad: AUSTIN Estadio: Q2 STADIUM	
+Equipo 1: CANADA  Equipo 2: PERU Ronda: grupo Resultado: 1-1 Ciudad: MIAMI Estadio: HARD ROCK STADIUM	
+Equipo 1: MEXICO  Equipo 2: VENEZUELA Ronda: grupo Resultado: 1-0 Ciudad: GLENDALE Estadio: STATE FARM STADIUM	
+Equipo 1: CHILE  Equipo 2: PERU Ronda: grupo Resultado: 0-2 Ciudad: SANTA CLARA Estadio: LEVI'S STADIUM	
+Equipo 1: ECUADOR  Equipo 2: MEXICO Ronda: grupo Resultado: 1-2 Ciudad: ARLINGTON Estadio: AT&T STADIUM	
+Equipo 1: BRASIL  Equipo 2: PARAGUAY Ronda: grupo Resultado: 1-0 Ciudad: ARLINGTON Estadio: AT&T STADIUM	
+
+--------------------------------------------------
+Modificaciones
+Agrego ciudad: Nombre: PLOTTIER Sede: true Alojamiento disponible: true
+Agrego ciudad: Nombre: NEUQUEN Sede: false Alojamiento disponible: false
